@@ -1,5 +1,5 @@
-User service is a new file.
-process the data
+User service is a new file
+
 
 create an avatar for user
 
