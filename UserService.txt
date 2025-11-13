@@ -1,1 +1,6 @@
 User service is a new file.
+process the data
+
+create an avatar for user
+
+login and logout
